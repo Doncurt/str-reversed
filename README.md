@@ -5,11 +5,11 @@ A small library that reverses a string for algorithms
 
 ## Installation
 
-  `npm install @doncurt/str-reversed`
+  `npm install dca-str-reversed`
 
 ## Usage
 
-    const str-reversed = require('@doncurt/str-reversed);
+    const str-reversed = require('dca-str-reversed);
 
     const reversed = str-reversed('me');
 
