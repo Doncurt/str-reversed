@@ -1,0 +1,31 @@
+{
+  "name": "dca-str-reversed",
+  "version": "0.1.0",
+  "description": "Reverses a string",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doncurt/str-reversed.git"
+  },
+  "keywords": [
+    "reverses",
+    "a",
+    "string"
+  ],
+  "author": "“Donovan <donovan.adams@students.makeschool.com> (https://www.makeschool.com/portfolio/Donovan-Adams)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doncurt/str-reversed/issues"
+  },
+  "homepage": "https://github.com/Doncurt/str-reversed#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
